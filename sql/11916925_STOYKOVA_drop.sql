@@ -1,0 +1,17 @@
+DROP VIEW sum_price1;
+DROP VIEW min_salary;
+DROP VIEW max_price;
+DROP VIEW view_mitarbeiter;
+DROP VIEW view_product;
+DROP PROCEDURE GetKundeInfo;
+DROP TABLE Ermaessigung;
+DROP TABLE Bezahlung;
+DROP TABLE verkauft;
+DROP TABLE Snacks;
+DROP TABLE Tickets;
+DROP TABLE Produkt;
+DROP TABLE Kauf;
+DROP TABLE Kunde;
+DROP TABLE Mitarbeiter;
+DROP TABLE Kino;
+DROP SEQUENCE kinoID_seq;
